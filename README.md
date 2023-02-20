@@ -26,7 +26,6 @@ and make sure you understand how they work.
 Take a guess at which one will be faster,
 and tell the person sitting next to you what your guess is.
 
-<!--
    Complete the following table, where each entry is the runtime of the corresponding function when the input `container` is of the corresponding type.
    Write the runtimes in terms of `n=len(container)` using big-O notation.
 
@@ -41,8 +40,6 @@ and tell the person sitting next to you what your guess is.
 
    **HINT:**
    One of these entries should be asymptotically larger than the others.
--->
-
 **Part 1:**
 
 Now you will use the [timeit module](https://docs.python.org/3/library/timeit.html) in python to measure the runtimes of the palendrome functions.
